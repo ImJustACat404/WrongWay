@@ -1,3 +1,4 @@
+;Author: Ido Senn
 .286
 IDEAL
 MODEL small
